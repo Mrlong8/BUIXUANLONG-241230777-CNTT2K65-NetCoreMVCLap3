@@ -1,3 +1,6 @@
-Bùi Xuân Long - 241230777 - Lap3
 
-![alt text](<Screenshot 2026-09-09 231935.png>)
+
+## 1. Giới thiệu
+
+Bùi Xuân Long - MSV : 241230777 - CNTT2K65
+
